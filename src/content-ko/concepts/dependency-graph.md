@@ -1,4 +1,3 @@
-
 ---
 title: Dependency Graph
 sort: 9
