@@ -2,20 +2,16 @@
 title: Output
 sort: 3
 contributors:
-  - TheLarkInn
-  - chyipin
-  - rouzbeh84
-  - byzyk
+  - JdevH
 ---
 
-Configuring the `output` configuration options tells webpack how to write the compiled files to disk. Note that, while there can be multiple `entry` points, only one `output` configuration is specified.
+`output`옵션을 설정하면 컴파일된 파일(`bundles`)을 디스크에 쓰는 방법을 웹팩에게 알려주는 것입니다. `entry point`는 여러 곳일 수 있지만 `output`은 하나만 지정된 다는 것을 유의해주세요.
 
 
 ## Usage
 
-The minimum requirements for the `output` property in your webpack config is to set its value to an object including the following thing:
+웹팩 config에서 `output`프로퍼티에 대한 최소 요구 조건은 다음과 같이 [`output.filename`](https://webpack.js.org/configuration/output/#outputfilename) 설정 값을 Object로써 설정하는 것입니다.
 
-- A `filename` to use for the output file(s).
 
 __webpack.config.js__
 
@@ -27,7 +23,8 @@ module.exports = {
 };
 ```
 
-This configuration would output a single `bundle.js` file into the `dist` directory.
+위 설정은 `dist`디렉토리에 단일 `bundle.js`파일로 출력하게 됩니다.
+
 
 
 ## Multiple Entry Points
