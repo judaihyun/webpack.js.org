@@ -2,6 +2,25 @@
 title: Getting Started
 sort: 2
 contributors:
+  - bebraw
+  - varunjayaraman
+  - cntanglijun
+  - chrisVillanueva
+  - johnstew
+  - simon04
+  - aaronang
+  - TheDutchCoder
+  - sudarsangp
+  - Vanguard90
+  - chenxsan
+  - EugeneHlushko
+  - ATGardner
+  - ayvarot
+  - bjarki
+  - ztomasze
+  - Spiral90210
+  - byzyk
+  - wizardofhogwarts
   - jDevH
 ---
 
