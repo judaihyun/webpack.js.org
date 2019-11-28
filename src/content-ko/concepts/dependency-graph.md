@@ -1,7 +1,9 @@
 ---
 title: Dependency Graph
-sort: 9
+sort: 8
 contributors:
+  - TheLarkInn
+  - EugeneHlushko
   - jDevH
 related:
   - title: HTTP2 Aggressive Splitting Example
