@@ -2,6 +2,12 @@
 title: Entry Points
 sort: 2
 contributors:
+  - TheLarkInn
+  - chrisVillanueva
+  - byzyk
+  - sokra
+  - EugeneHlushko
+  - Zearin
   - jDevH
 ---
 
